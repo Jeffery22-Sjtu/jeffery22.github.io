@@ -12,7 +12,7 @@ title                    : "Ruijie Fu"
 title_separator          : "-"
 name                     : &name "Ruijie Fu"
 description              : &description "personal description"
-url                      : https://jeffery22-sjtu.github.io/jeffery22.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jeffery22-sjtu.github.io  # /jeffery22.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jeffery22-Sjtu/jeffery22.github.io"
 
@@ -21,7 +21,7 @@ repository               : "Jeffery22-Sjtu/jeffery22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/loppy.png"
+  avatar           : "loppy.png"
   name             : "Ruijie Fu"
   pronouns         : # example: "she/her"  
   bio              : "A third-year PhD student in SEIEE, SJTU."
