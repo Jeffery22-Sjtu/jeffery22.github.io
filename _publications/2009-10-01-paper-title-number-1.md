@@ -3,7 +3,7 @@ title: "Smart Sensing and Communication Co-Design for IIoT-Based Control Systems
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2023-07-01
 venue: 'IEEE INTERNET OF THINGS JOURNAL'
 paperurl: 'http://jeffery22.github.io/files/Smart_Sensing_and_Communication_Co-Design_for_IIoT-Based_Control_Systems.pdf'
