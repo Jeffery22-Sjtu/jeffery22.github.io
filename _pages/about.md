@@ -13,6 +13,8 @@ My research interests are mainly in the control, communication, and computation 
 
 [Email](furj2022@sjtu.edu.cn)
 
-<span style="font-size:20px; font-weight:bold;">这是加粗且字号较大的文本</span>
+<span style="font-size:24px; font-weight:bold;">Contact information</span>
 
-none
+Phone: +86 18143086613
+Address: the student laboratory of John Hopcroft Center for Computer Science, the School of Electronic Information and Electrical Engineering, Building 4, 2nd Floor, 800 Dongchuan Road.
+
