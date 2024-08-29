@@ -21,7 +21,7 @@ repository               : "Jeffery22-Sjtu/jeffery22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "loppy.PNG"
+  avatar           : "images/loppy.png"
   name             : "Ruijie Fu"
   pronouns         : # example: "she/her"  
   bio              : "A third-year PhD student in SEIEE, SJTU."
