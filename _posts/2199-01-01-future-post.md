@@ -8,3 +8,5 @@ tags:
 ---
 
 My gril friend is **Shuang Yu**
+
+![mobicom.png](https://github.com/isabelleliu630/isabelleliu630.github.io/blob/master/files/figures/mobicom.png?raw=true)
