@@ -7,7 +7,7 @@ tags:
   - dog bro
 ---
 
-My best friend, dog bro. And My dear roommates in 416. Long time no see, I miss you mush.
+My best friend bro. dog, and my dear roommates in 416. Long time no see, I miss you much.
 
 ![dogbro1](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/dogbro1.jpg?raw=true)
 ![dogbro3](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/dogbro3.jpg?raw=true)
