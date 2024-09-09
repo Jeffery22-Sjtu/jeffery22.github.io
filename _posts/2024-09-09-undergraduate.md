@@ -9,4 +9,6 @@ tags:
 
 My dear friend, dog bro.
 
-![xian2.png](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/xian2.png?raw=true)
+![dogbro1](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/dogbro1.jpg?raw=true)
+![dogbro3](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/dogbro3.jpg?raw=true)
+![dogbro2](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/dogbro2.jpg?raw=true)
