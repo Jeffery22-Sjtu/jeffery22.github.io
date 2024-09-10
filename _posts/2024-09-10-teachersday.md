@@ -1,4 +1,3 @@
-
 ---
 title: 'Happy Teacher's Day!'
 date: 2024-09-10
