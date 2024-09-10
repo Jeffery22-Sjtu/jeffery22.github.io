@@ -1,5 +1,5 @@
 ---
-title: 'Happy Teacher's Day!'
+title: 'Happy Teacher\'s Day!'
 date: 2024-09-10
 permalink: /posts/2024/09/teachersday/
 tags:
