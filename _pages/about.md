@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Ruijie Fu (符瑞杰), a third-year PhD student both in the [Automation](https://automation.sjtu.edu.cn/) and [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/) at Shanghai Jiao Tong University. My supervisor is [Prof. Yehan Ma](https://automation.sjtu.edu.cn/yehanma). Prior to that, I received my bachelor's degree from Jilin University in June, 2022. My research interests are mainly in the control, communication, and computation co-design on __Cyber-Physical Systems__, __Industrial IoT__, and __Real-time Systems__.
+Hello! My name is Ruijie Fu (符瑞杰), a third-year PhD student both in the [Automation](https://automation.sjtu.edu.cn/) and [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/) at Shanghai Jiao Tong University. My supervisor is [Prof. Yehan Ma](https://automation.sjtu.edu.cn/yehanma). Prior to that, I received my bachelor's degree from Jilin University in June, 2022. My research interests are mainly in the __control, communication, and computation co-design__ for Cyber-Physical Systems, Industrial IoT, and Real-time Systems.
 
 <span style="font-size:24px; font-weight:bold;">Contact information</span>
 
