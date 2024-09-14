@@ -10,5 +10,5 @@ tags:
 
 Congratulations to Jintao for his first top-tier conference paper received in RTSS 2024, Keep it up! 
 
-![jintaopaper.jpg](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/jintaopaper.jpg?raw=true)
+![jintaopaper.png](https://github.com/Jeffery22-Sjtu/jeffery22.github.io/blob/master/images/jintaopaper.png?raw=true)
 
