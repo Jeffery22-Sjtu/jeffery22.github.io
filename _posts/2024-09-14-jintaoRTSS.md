@@ -1,5 +1,5 @@
 ---
-title: 'Congratulations to Jintao for his first top tier conference paper'
+title: 'Congratulations to Jintao for his first top tier conference paper in RTSS 2024!'
 date: 2024-09-14
 permalink: /posts/2024/09/jintaoRTSS/
 tags:
